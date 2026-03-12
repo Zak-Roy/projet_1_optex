@@ -1,0 +1,15 @@
+=== RÉSUMÉ DE L'ANALYSE ===
+
+Méthode utilisée :
+1) Lecture des fichiers 2 colonnes (lambda, intensité)
+2) Soustraction du dark
+3) Transmission relative à l'eau
+4) Normalisation de forme
+5) Recherche automatique des bandes sensibles
+6) Ratio spectral et étalonnage
+
+Plage analysée : 953.279 à 1703.241 nm
+Bande + : 1130.61 à 1142.43 nm
+Bande - : 1065.60 à 1077.42 nm
+Calibration : C = 227.804 * R + -226.527
+R² = 0.940655

@@ -1,0 +1,27 @@
+=== ANALYSE DES BOISSONS INCONNUES ===
+
+Méthode:
+1) calibration sur les solutions eau + sucre
+2) choix automatique de deux bandes sensibles
+3) construction d'un ratio spectral R
+4) estimation de la concentration par C = aR + b
+
+Plage analysée : 953.279 à 1703.241 nm
+Bande + : 1130.61 à 1142.43 nm
+Bande - : 1065.60 à 1077.42 nm
+Calibration : C = 227.804 * R + -226.527
+R² = 0.940655
+
+Estimations des boissons:
+- creme_soda_flat:
+    ratio = 1.050745
+    concentration estimée = 12.838 %
+    dans la plage de calibration = True
+- sprite_flat:
+    ratio = 1.064555
+    concentration estimée = 15.983 %
+    dans la plage de calibration = True
+- tonic_flat:
+    ratio = 1.056939
+    concentration estimée = 14.249 %
+    dans la plage de calibration = True
