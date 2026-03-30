@@ -1,4 +1,4 @@
-label,band_pos_mean,band_neg_mean,ratio,estimated_concentration_percent,ratio_in_calibration_range
-creme_soda_flat,0.00795919883666797,0.007574814269032085,1.0507450815272599,12.837520146605726,True
-sprite_flat,0.008002379508838796,0.0075171142950488795,1.064554720700407,15.9834143575018,True
-tonic_flat,0.007970634973031313,0.007541243731080776,1.0569390484199346,14.24853200186385,True
+label,ratio_mean,ratio_std,estimated_concentration_percent,estimated_concentration_sigma_percent,ratio_in_calibration_range
+creme_soda_flat,1.0640061317712748,0.0,11.105884276396807,0.0,True
+sprite_flat,1.0575219794154744,0.0,10.14950478848175,0.0,True
+tonic_flat,1.051912119530671,0.0,9.322078992555788,0.0,True

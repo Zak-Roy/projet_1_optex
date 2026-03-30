@@ -1,0 +1,4 @@
+label,ratio_mean,ratio_std,estimated_concentration_percent,estimated_concentration_sigma_percent,ratio_in_calibration_range
+creme_soda_flat,-0.9656489844353321,0.0,10.66278755443188,5.739221416857931,True
+sprite_flat,-1.0440688394314965,0.0,10.603378259638102,5.739221416857931,True
+tonic_flat,-1.0619609361187212,0.0,10.589823569354346,5.739221416857931,True
